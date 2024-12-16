@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonConger
-- 👀 I’m interested in Splunk, Microsoft Azure, Visual Stuido Code, and extending things in general
+- 👀 I’m interested in Splunk, partner innovation, customer outcomes, cloud technologies, and learning ways to utilize technology 
 - 📫 How to reach me: https://jasonconger.com
 
 <!---
